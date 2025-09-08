@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Batubo Victory 
 
-## 💻 Software Engineer | FrontEnd Developer
+## 💻 Software Engineer || FrontEnd Developer || Writer
 
 ---
 
