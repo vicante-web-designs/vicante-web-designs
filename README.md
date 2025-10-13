@@ -15,7 +15,7 @@ I’m **Victory**, a passionate **Frontend Developer** and **Web Designer** dedi
 
 I blend **creativity and code** — using tools like **HTML, CSS, JavaScript, React, TypeScript, Tailwind, Bootstrap, Vite, Webflow, Framer** and **Figma** — to design and develop responsive websites that connect with people and drive results.  
 
-Currently building with ❤️ at **Phoenix Domain**, where I help businesses turn their ideas into functional, impactful websites.  
+Currently building with ❤️ and purpose at **Vicante Web Designs**, where I help businesses turn their ideas into functional, impactful websites.  
 
 ✨ *I believe great websites don’t just look good — they solve problems.*  
 
