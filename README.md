@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Batubo Victory  
 
-## 💻 Frontend Developer | Web Designer | Writer  
+## 💻 Frontend Developer | Web Designer | UI/UX Designer
 
 ---
 
