@@ -38,11 +38,11 @@ Currently building with ❤️ and purpose at **Vicante Web Designs**, where I h
 
 ### 📈 GitHub Stats  
 
-![](https://komarev.com/ghpvc/?username=Phoenix-Domain&style=flat-square&color=blueviolet)  
+![](https://komarev.com/ghpvc/?username=vicante-web-designs&style=flat-square&color=blueviolet)  
 
-![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show_icons=true&theme=radical&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Phoenix-Domain&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Domain&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Phoenix-Domain/github-profile-trophy)  
+![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicante-web-designs&show_icons=true&theme=radical&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=vicante-web-designs&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vicante-web-designs&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/vicante-web-designs/github-profile-trophy)  
 
 ---
 
