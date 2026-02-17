@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Batubo Victory  
 
-## 💻 Frontend Developer | Web Designer | UI/UX Designer
+## 💻 Frontend Developer | Real Estate & Architecture Websites
 
 ---
 
@@ -11,11 +11,11 @@
 
 ### 🧑‍💻 About Me  
 
-I’m Victory, a frontend developer with a strong design eye, building modern web experiences for ** real estate brands, architectural studios, and property-focused businesses.**
+I’m Victory, a Frontend developer with a strong design eye, building modern web experiences for **real estate brands, architectural studios, and property-focused businesses.**
 
 I work across custom development and tools like React, TypeScript, Tailwind, Webflow, and Framer to create websites and platforms that feel clear, calm, and intentional — built to support trust, storytelling, and conversion.
 
-Currently building at Vicante Web Designs, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
+Currently building at **Vicante Web Designs**, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
 
 Great websites aren’t decoration — they’re direction. 
 
