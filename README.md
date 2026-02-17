@@ -11,13 +11,13 @@
 
 ### 🧑‍💻 About Me  
 
-I’m **Victory**, a passionate **Frontend Developer** and **Web Designer** dedicated to building meaningful, user-centered digital experiences.  
+I’m Victory, a frontend developer with a strong design eye, building modern web experiences for ** real estate brands, architectural studios, and property-focused businesses.**
 
-I blend **creativity and code** — using tools like **HTML, CSS, JavaScript, React, TypeScript, Tailwind, Bootstrap, Vite, Webflow, Framer** and **Figma** — to design and develop responsive websites that connect with people and drive results.  
+I work across custom development and tools like React, TypeScript, Tailwind, Webflow, and Framer to create websites and platforms that feel clear, calm, and intentional — built to support trust, storytelling, and conversion.
 
-Currently building with ❤️ and purpose at **Vicante Web Designs**, where I help businesses turn their ideas into functional, impactful websites.  
+Currently building at Vicante Web Designs, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
 
-✨ *I believe great websites don’t just look good — they solve problems.*  
+Great websites aren’t decoration — they’re direction. 
 
 ---
 
