@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Batubo Victory  
 
-## 💻 Full Stack Developer | Real Estate & Architecture Websites
+## 💻 Full Stack Developer | Real Estate, Architecture, Property & Brand  Websites
 
 ---
 
