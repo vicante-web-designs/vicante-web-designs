@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me  
 
-I’m Victory, a Full Stack developer with a strong design eye, building modern web experiences for **real estate brands, architectural studios, and property-focused businesses.**
+I’m Victory, a Creative Full Stack developer with a strong design eye, building modern web experiences for **real estate brands, architectural studios, and property-focused businesses.**
 
 I work across custom development and tools like React, TypeScript, Tailwind, Webflow, and Framer to create websites and platforms that feel clear, calm, and intentional — built to support trust, storytelling, and conversion.
 
