@@ -42,6 +42,7 @@ Great websites aren’t decoration — they’re direction.
 
 ![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicante-web-designs&show_icons=true&theme=radical&hide_border=true)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=vicante-web-designs&theme=radical&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicante-web-designs&layout=compact&theme=tokyonight)
 [![Trophy](https://github-profile-trophy.vercel.app/?username=vicante-web-designs&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/vicante-web-designs/github-profile-trophy)  
 
 ---
