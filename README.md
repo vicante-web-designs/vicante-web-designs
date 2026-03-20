@@ -49,7 +49,7 @@ Great websites aren’t decoration — they’re direction.
 ### 💬 Fun Side  
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-![Jokes Card](https://readme-jokes.vercel.app/api/?hide_border=true&theme=radical&hide_border=true)  
+![Jokes Card](https://readme-jokes.vercel.app/api/?hide_border=true&theme=radical)  
 
 ---
 
