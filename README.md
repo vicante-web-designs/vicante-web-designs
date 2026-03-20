@@ -4,7 +4,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,supabase,webflow,tailwind,vercel,vscode,vite,vitest,redux,pr,postman,npm,notion,netlify,jest,git,github,figma,codepen,bootstrap,html,css&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,supabase,webflow,tailwind,vercel,vscode,vite,vitest,redux,pr,postman,npm,notion,netlify,jest,git,github,figma,codepen,bootstrap,html,css&perline=13)](https://skillicons.dev)
 
 
 ---
