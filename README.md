@@ -1,18 +1,20 @@
-# 👋 Hi, I'm Batubo Victory  
+# 👋 Hi, I'm Victory  
 
-## 💻 Full Stack Developer | Product Developer | Real Estate, Architecture, Property & Brand  Websites
+## 💻 Software Developer | Product Builder | Solving Business Problems with Software
 
 ---
 
 ### 🧑‍💻 About Me  
 
-I’m Victory, a Creative Full Stack developer with a strong design eye, building modern digital experiences for **real estate brands, architectural studios, and property-focused businesses.**
+I'm Victory, a software developer with a strong interest in product thinking and building software around how businesses actually work.
 
-I work across custom development and tools like React, TypeScript, Tailwind, Webflow, and Framer to create websites and platforms that feel clear, calm, and intentional, built to support trust, storytelling, and conversion.
+I'm currently focused on the **real estate industry**, designing and building tools that help agencies simplify their operations, showcase properties more effectively, and deliver a better experience to their customers.
 
-Currently building at **Vicante Studio**, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
+I enjoy taking an idea from research to a working product, understanding the problem, designing the solution, and building the software behind it.
 
-Great websites aren’t decoration, they’re direction. 
+I'm currently building Vicante Studio, where I'm documenting the journey of learning, experimenting, and creating practical software for businesses.
+
+I believe the best software isn't the one with the most features, it's the one that solves the right problem.
 
 ---
 ## My Tool Belt
