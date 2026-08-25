@@ -1,20 +1,14 @@
 # 👋 Hi, I'm Victory  
 
-## 💻 Software Developer | Product Builder | Solving Business Problems with Software
+## 💻 Backend-focused Full-Stack Software Engineer | Product Builder | Solving Business Problems with Software
 
 ---
 
-### 🧑‍💻 About Me  
+I'm a software engineer with hands-on experience building full-stack applications using React, TypeScript, Node.js, Express, and SQL databases. I started in frontend development, developed an interest in UI/UX, and then moved into backend engineering because I wanted to understand and build systems across the entire stack.
 
-I'm Victory, a software developer with a strong interest in product thinking and building software around how businesses actually work.
+My main projects include Lasio, a full-stack real-estate property platform, and EasyCounter, an offline/LAN attendance Desktop app. Through these projects I've worked with APIs, authentication and authorization, databases, debugging, and frontend/backend integration.
 
-I'm currently focused on the **real estate industry**, designing and building tools that help agencies simplify their operations, showcase properties more effectively, and deliver a better experience to their customers.
-
-I enjoy taking an idea from research to a working product, understanding the problem, designing the solution, and building the software behind it.
-
-I'm currently building Vicante Studio, where I'm documenting the journey of learning, experimenting, and creating practical software for businesses.
-
-I believe the best software isn't the one with the most features, it's the one that solves the right problem.
+I'm currently deepening my backend engineering skills, particularly SQL, database design, testing, deployment, and system architecture, with the goal of becoming an engineer capable of building reliable production systems that solve real business and user problems.
 
 ---
 ## My Tool Belt
@@ -22,7 +16,7 @@ I believe the best software isn't the one with the most features, it's the one t
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,bootstrap,html,vite,htmx,css&perline=13)](https://skillicons.dev)
 
 ### Backend  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,bash&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,prisma,bash&perline=13)](https://skillicons.dev)
 
 ### Database 
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&perline=13)](https://skillicons.dev)
